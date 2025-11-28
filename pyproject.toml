@@ -1,0 +1,10 @@
+
+[project]
+name = "seculint"
+version = "0.3.0"
+description = "Security linter for secret detection"
+authors = [{name="Shahid"}]
+requires-python = ">=3.10"
+dependencies = ["click"]
+[project.scripts]
+seculint = "seculint.cli:main"

@@ -1,6 +1,6 @@
 [project]
 name = "seculint"
-version = "0.2.0"
+version = "0.3.0"
 description = "Local secret & privacy leak scanner with optional AI verification"
 authors = [
     {name = "Shahid Riaz Bhatti", email = "shahid.bhatti@hotmail.com"}
